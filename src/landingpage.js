@@ -1,4 +1,3 @@
-
 const createLandingPage = (parentElement) => {
     const header = document.createElement("h1");
     header.textContent = "Macdonald's";
